@@ -1,0 +1,11 @@
+{
+  "fields": {
+    "project": {
+      "key": "AM"
+    },
+    "summary": "new Task has be updated",
+    "issuetype": {
+      "name": "Task"
+    }
+  }
+}
